@@ -4,7 +4,7 @@ import Navbar from "./Components/NavBar/Navbar";
 export default function Home() {
   return (
     <>
-      <div>
+      <div className="text-sm">
         <div>
           <Navbar />
         </div>
