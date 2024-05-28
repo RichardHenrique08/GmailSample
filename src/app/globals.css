@@ -4,11 +4,20 @@
 
 body{
   background-color: #F2F7FF;
+  box-sizing: border-box;
 }
 .wInput{
   width: 36rem;
 }
 
 .wAside{
-  width: 20%;
+  width: 16%;
+  padding-right: 3rem;
 }
+
+
+
+.rounded-4xl{
+  border-radius: 2rem;
+}
+
